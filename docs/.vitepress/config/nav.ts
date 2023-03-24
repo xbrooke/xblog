@@ -8,5 +8,10 @@ export const nav = [
     text: '博客',
     activeMatch: '/brooke/blog/',
     link: '/brooke/blog/haohaozhu/hhz'
+  },
+  {
+    text: '婚礼',
+    activeMatch: '/brooke/hl/',
+    link: '/brooke/hl/'
   }
 ]
