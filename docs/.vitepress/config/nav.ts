@@ -12,6 +12,6 @@ export const nav = [
   {
     text: '婚礼',
     activeMatch: '/brooke/hl/',
-    link: '/brooke/hl/'
+    link: '/brooke/hl/01'
   }
 ]
