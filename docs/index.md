@@ -1,27 +1,27 @@
 ---
 layout: home
 hero:
-  name: 徐大兵
-  tagline: 文档网站。
+  name: 徐大兵的Blog
+  tagline: 笔记/博客/软件/教程...
   image:
     src: /logo.png
   actions:
     - theme: brand
-      text: 快速入手
+      text: 快速来接
       link: ./brooke/bb/
     - theme: alt
       text: 使用技巧
       link: ./brooke/bb/
 features:
   - icon: ⚡
-    title: 简单
-    details: 开箱即用，只需要简单配置，就可以马上使用。
+    title: 笔记
+    details: 心得分享
   - icon: 🛠️
-    title: 全面
-    details: 集成组件库、TailwindCSS、SVG图标等默认解决方案，应有尽有！
+    title: 博客
+    details: 集成好好住、大众点评、土巴兔等笔记分享，运营有我签单不愁！
   - icon: ✊
-    title: 强大
+    title: 教程
     link: https://github.com/shoppingzh/press-util
     linkText: 更多
-    details: 自动生成导航栏与侧边栏，你的烦恼即是我的烦恼。
+    details: 硬酷R1折腾尽在徐大兵Blog
 ---
