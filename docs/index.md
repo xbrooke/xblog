@@ -8,10 +8,10 @@ hero:
   actions:
     - theme: brand
       text: 快速来接
-      link: ./brooke/bb/
+      link: ./brooke/bb/01
     - theme: alt
       text: 使用技巧
-      link: ./brooke/bb/
+      link: ./brooke/bb/01
 features:
   - icon: ⚡
     title: 笔记
